@@ -12,16 +12,12 @@
 > *"Every expert was once a beginner."* <br>
 I am currently diving into the world of programming! My repositories are private right now because I am experimenting, learning the basics, and building my foundation. Stay tuned!
 
-<br>
-
-### 🛠️ What I'm Learning Right Now
-<!-- You can delete any of these badges if you aren't learning them yet! -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
 <br><br>
+
+<!-- Animated Hacker Terminal (REPLACED THE BADGES WITH THIS) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FF00&background=0D1117&center=false&vCenter=true&width=600&height=80&lines=%3E_+$+Initializing+learning+mode...;%3E_+$+Loading+tutorials...;%3E_+$+Compiling+first+project...;%3E_+$+Status:+Highly+Motivated!" alt="Terminal" style="border-radius: 10px; border: 1px solid #30363d;" />
+
+<br><br><br>
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=Kraksz&style=for-the-badge&color=blue&label=Profile%20Views" alt="Profile Views" />
