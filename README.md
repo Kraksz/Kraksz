@@ -152,20 +152,17 @@
 
 ---
 
-<a href="https://linkedin.com" target="_blank">
+<a href="https://www.linkedin.com/in/kraksz-krakszov-646a25445/" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
 </a>
-<a href="https://x.com" target="_blank">
+<a href="https://x.com/Kraksz1337" target="_blank">
   <img src="https://img.shields.io/badge/X(TWITTER)-FOLLOW-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="Twitter" />
 </a>
-<a href="https://instagram.com" target="_blank">
-  <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" />
-</a>
 <a href="https://discord.com" target="_blank">
-  <img src="https://img.shields.io/badge/DISCORD-JOIN-000000?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord" />
+  <img src="https://img.shields.io/badge/DISCORD-kraksz-000000?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord" />
 </a>
 <a href="mailto:krakszmanagement@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/GMAIL-EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail" />
+  <img src="https://img.shields.io/badge/GMAIL-krakszmanagement%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail" />
 </a>
 
 </div>
