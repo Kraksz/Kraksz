@@ -1,42 +1,43 @@
 <div align="center">
 
-<!-- ==================== TOP BANNER ==================== -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=160&text=Kraksz&fontSize=50&fontColor=ffffff&desc=•%20WEB%20DEVELOPER%20%20•%20SOFTWARE%20ENGINEER%20%20•%20AI/ML%20GEEK&descFontSize=18&descAlignY=70&descAlign=50" width="100%" />
+<!-- ==================== HEADER ==================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=200&section=header&text=Hello,%20I'm%20Kraksz!&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=480&lines=🌱+Learning+to+code;💻+Future+Software+Engineer;🚀+Building+my+first+projects;✨+Turning+ideas+into+code" alt="Typing SVG" />
 
 <br>
 
 <p align="center">
-  <b>Building AI Powered Systems & Intelligent Solutions 🚀</b>
+  <b>Building Modern & Intelligent Software Solutions 🚀</b>
 </p>
 
-</div>
-
 <br>
+
+</div>
 
 <!-- ==================== ABOUT ME ==================== -->
 ## 🎯 About Me
 
 ```javascript
 const kraksz = {
-  role: "Full-Stack Developer & Software Engineer",
-  location: "Varna, Bulgaria 🇧🇬",
+  role: "Aspiring Software Engineer & Developer",
+  location: "Earth 🌍",
 
   building: [
-    "AI & ML Systems",
-    "Full Stack Projects"
+    "Full-Stack Web Applications",
+    "Exciting Open-Source Projects"
   ],
 
   learning: [
-    "Machine Learning",
-    "Advanced MERN / Next.js",
-    "DSA (Data Structures & Algorithms)",
-    "System Design"
+    "Modern Web Technologies",
+    "Data Structures & Algorithms",
+    "System Design & Clean Code"
   ],
 
   tech: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind"],
+    frontend: ["JavaScript", "TypeScript", "React", "Next.js"],
     backend: ["Node.js", "Express", "Python"],
-    ai: ["TensorFlow", "Scikit-learn"],
-    database: ["MongoDB", "PostgreSQL", "MySQL"]
+    database: ["MongoDB", "PostgreSQL"],
+    tools: ["Git", "Linux", "VS Code"]
   }
 };
