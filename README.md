@@ -9,44 +9,7 @@
 
 </div>
 
-<br>
-
-<!-- ==================== ABOUT ME ==================== -->
-## 🎯 About Me
-
-<pre>
-const kraksz = {
-  role: "AI & Full-Stack Developer",
-  location: "Varna, Bulgaria 🇧🇬",
-
-  building: [
-    "AI & ML Systems",
-    "Full Stack Projects"
-  ],
-
-  learning: [
-    "Machine Learning",
-    "Advanced MERN / Next.js",
-    "DSA",
-    "System Design"
-  ],
-
-  tech: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind"],
-    backend: ["Node.js", "Express", "Python"],
-    ai: ["TensorFlow", "Scikit-learn"],
-    database: ["MongoDB", "MySQL", "PostgreSQL"]
-  }
-};
-</pre>
-
-> *"The most important part of writing a program is designing the data structures."*
-
-<br>
-
----
-
-<br>
+<br><br>
 
 <!-- ==================== COMMUNITY / FEATURED PROJECT ==================== -->
 <div align="center">
@@ -216,7 +179,7 @@ const kraksz = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kraksz&show_icons=true&theme=tokyonight&hide_border=false" alt="Kraksz's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kraksz&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Kraksz&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -234,19 +197,6 @@ const kraksz = {
 
 <br><br>
 
-<!-- ==================== GITHUB TROPHIES (FROM PHOTOS) ==================== -->
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kraksz&theme=radical&column=7&margin-w=10&margin-h=10&no-bg=true" alt="GitHub Trophies" />
-</p>
-
-</div>
-
-<br><br>
-
 <!-- ==================== CONTRIBUTION GRAPH (FROM PHOTOS) ==================== -->
 <div align="center">
 
@@ -255,7 +205,7 @@ const kraksz = {
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kraksz&theme=tokyo-night&hide_border=false" width="100%" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kraksz&theme=tokyonight" width="100%" alt="Commit Activity Graph" />
 </p>
 
 <br>
@@ -280,9 +230,9 @@ const kraksz = {
 
 <br><br>
 
-<img src="https://img.shields.io/github/repo-count/Kraksz?style=for-the-badge&logo=github&logoColor=white&label=REPOSITORIES&color=FF3366" alt="Repositories" />
+<img src="https://img.shields.io/badge/REPOSITORIES-2-FF3366?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
 <img src="https://img.shields.io/github/followers/Kraksz?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=38BDF8" alt="Followers" />
-<img src="https://img.shields.io/github/stars/Kraksz?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=22C55E" alt="Stars" />
+<img src="https://img.shields.io/badge/STARS-0-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Stars" />
 
 <br><br>
 
