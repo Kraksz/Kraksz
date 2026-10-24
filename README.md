@@ -156,7 +156,7 @@
   <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
 </a>
 <a href="https://x.com/Kraksz1337" target="_blank">
-  <img src="https://img.shields.io/badge/X(TWITTER)-FOLLOW-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="Twitter" />
+  <img src="https://img.shields.io/badge/X%28TWITTER%29-FOLLOW-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="Twitter" />
 </a>
 <a href="https://discord.com" target="_blank">
   <img src="https://img.shields.io/badge/DISCORD-kraksz-000000?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord" />
@@ -253,6 +253,6 @@
 <br>
 
 <!-- OPEN TO COLLAB BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&text=OPEN%20TO%20COLLAB&fontSize=34&fontColor=ffffff&desc=Full-Stack%20Developer%20|%20AI/ML%20Engineer%20|%20Open%20Source%20Contributor&descFontSize=16&descAlignY=70&descAlign=50" width="100%" alt="Open to Collab" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&text=OPEN%20TO%20COLLAB&fontSize=34&fontColor=ffffff&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Open%20Source%20Contributor&descFontSize=16&descAlignY=70&descAlign=50" width="100%" alt="Open to Collab" />
 
 </div>
