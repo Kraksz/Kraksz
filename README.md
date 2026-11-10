@@ -175,12 +175,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kraksz&show_icons=true&theme=tokyonight&hide_border=false" alt="Kraksz's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kraksz&show_icons=true&theme=tokyonight&hide_border=false" alt="Kraksz's GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=Kraksz&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kraksz&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kraksz&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </p>
 
 <br>
